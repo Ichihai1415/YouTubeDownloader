@@ -65,3 +65,5 @@ yt-dlp.exe・ffmpeg.exeはそれぞれライセンスを確認してください
 # サイト等
 
 [GitHub](https://github.com/Ichihai1415/YouTubeDownloader)　ソースコード・ソフトの配布のほか、修正予定・バグ情報をIssuesで公開します。
+
+[Twitter](https://twitter.com/ProjectS31415_1)　エラーが発生した場合報告ください。質問も受け付けています。
